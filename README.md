@@ -1,4 +1,4 @@
-###**Budget Tracker**####
+###Budget Tracker
 
 ##**Description:**###
 Budget Tracker is a simple Java application designed to help users manage their finances by tracking income, expenses, and displaying transaction history. It features functionalities such as adding income, adding expenses, displaying transaction history, and deleting transactions. The application utilizes SQL for the login page to provide secure authentication with username and password.
